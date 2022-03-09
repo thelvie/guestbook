@@ -1,0 +1,1 @@
+<?php defined('BASEPATH') or exit('No direct script access allowed');$config['database_host']='database_host';$config['database_user']='database_user';$config['database_pass']='database_pass';$config['database_name']='database_name';
